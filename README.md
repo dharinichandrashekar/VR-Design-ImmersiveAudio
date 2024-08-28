@@ -1,8 +1,5 @@
-# XR_Assignment2_immersiveaudio
+# Designing a VR environment with immersive audio
+This VR environment showcases the diverse capabilities of immersive audio modes, including attenuation and echoes, on various types of materials.
 
-
-Student: Dharini Chandrashekar
-
-
-Instructions:
-Use you mouse to rotate the camera angle, and keyboard arrow keys to move forward, backward, left and right.
+How to navigate in the environment:
+Use your mouse to rotate the camera angle, and keyboard arrow keys to move forward, backward, left, and right.
